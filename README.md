@@ -1,5 +1,5 @@
 
-# Theprojectnameshouldbeobjectorientedandapocalypticin README.md
+# Agentz0 README.md
 
 # Table of Contents 
 1. Project Description
@@ -46,4 +46,4 @@ This prototype should be considered a work in progress. As such, it should be bu
 ## License 
 The license that should be used is an MIT license and can be found in the root of the GitHub repository, titled LICENSE. The username for the Git repo is 'CY83R-3X71NC710N'. 
 
-CY83R-3X71NC710N ©2023
+CY83R-3X71NC710N Â©2023
